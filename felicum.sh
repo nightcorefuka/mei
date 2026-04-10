@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 while true; do
-	if [ "23:05" == "$(date +%H:%M)"]
+	if [ "23:08" == "$(date +%H:%M)"]
 
 	termux-vibrate -d 2000
 	termux-notification --title "FELIZ CUMEADA" --content "Feliz cumpleaños, Mei, te quierop"
